@@ -1,0 +1,5 @@
+===== Portfolio Summary =====
+AAPL: 5 shares @ $180 = $900
+AMZN: 4 shares @ $130 = $520
+-----------------------------
+Total Investment Value: $1420
